@@ -1,4 +1,7 @@
 # Official YOLOv7
+<video width="320" height="240" controls>
+    <source src="Demo.mp4" type="video/mp4">
+</video>
 
 Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)
 
